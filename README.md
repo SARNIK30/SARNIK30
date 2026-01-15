@@ -1,16 +1,78 @@
-## Hi there 👋
+<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33E6FF,100:2A6BFF&height=240&section=header&text=SARNIK30&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Multi-language%20Coder%20%E2%80%A2%20Scripts%20%E2%80%A2%20Tools%20%E2%80%A2%20Pok%C3%A9mon%20vibes&descAlignY=62&descSize=18" /></p>
+<p align="center">
+  <a href="https://github.com/SARNIK30">
+    <img src="https://komarev.com/ghpvc/?username=SARNIK30&label=Profile%20Views&color=2A6BFF&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/SARNIK30?tab=followers">
+    <img src="https://img.shields.io/github/followers/SARNIK30?label=Followers&style=for-the-badge&color=33E6FF&labelColor=111" />
+  </a>
+  <a href="https://github.com/SARNIK30?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Open-2A6BFF?style=for-the-badge&labelColor=111" />
+  </a>
+</p>
 
-<!--
-**SARNIK30/SARNIK30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&center=true&vCenter=true&width=650&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Shell;JavaScript+%7C+Lua+%7C+SQL;Scripts+%7C+Tools+%7C+Automation;Clean+Code+%E2%80%A2+Fast+Solutions+%E2%80%A2+Pok%C3%A9mon+fan+%F0%9F%92%99" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About
+- 🧠 **Multi-language coder**
+- 🧩 Скрипты, инструменты, автоматизация, эксперименты
+- 💙 **Pokémon vibes**
+
+---
+
+## 🧊 Languages / Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,lua,mysql,sqlite,git,github,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=33E6FF" />
+  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=33E6FF" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B&logoColor=33E6FF" />
+  <img src="https://img.shields.io/badge/Shell-111?style=for-the-badge&logo=gnubash&logoColor=33E6FF" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=33E6FF" />
+  <img src="https://img.shields.io/badge/Lua-111?style=for-the-badge&logo=lua&logoColor=33E6FF" />
+  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=sqlite&logoColor=33E6FF" />
+</p>
+
+---
+
+## 📌 Pinned repos
+<p align="center">
+  <a href="https://github.com/SARNIK30?tab=repositories">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8C%20Pin%20your%20best%20repos-Open%20Repos-2A6BFF?style=for-the-badge&labelColor=111" />
+  </a>
+</p>
+
+---
+
+## 📬 Contacts
+<p align="center">
+  <a href="https://t.me/Sarner30">
+    <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=33E6FF" />
+  </a>
+  <a href="https://discord.com/users/1195291036491202604">
+    <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord&logoColor=2A6BFF" />
+  </a>
+  <a href="mailto:Ynest3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=33E6FF" />
+  </a>
+</p>
+
+---
+
+<details>
+  <summary><b>✨ Extras</b></summary>
+
+- 🔥 Люблю кодить на разных языках  
+- 🧩 Люблю оптимизацию, скрипты и тулзы    
+
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33E6FF,100:2A6BFF&height=140&section=footer" />
+</p>
